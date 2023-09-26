@@ -1,0 +1,134 @@
+.section_3 {
+    
+    background-color: #181818;
+    padding-top: 25px;
+}
+
+.section_3_inner {
+    background-color: black;
+    border-radius: 15px;
+    height: 220px;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+
+.section_3_inner > img {
+    position: absolute;
+    left: 36%;
+    bottom: 0;
+    z-index: 2;
+}
+
+.section_3_inner_left {
+    border-radius: 15px;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 60px;
+    gap: 17px;
+    z-index: 3;
+}
+
+.section_3_inner_left > h4 {
+    color: #FEFEFE;
+    /* font-family: Poppins; */
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+}
+
+.section_3_inner_left > div {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 15px;
+    
+}
+
+.section_3_inner_right {
+    border-radius: 15px;
+    width: 50%;
+    height: 100%;
+    z-index: 3;
+}
+
+.section_3_inner_right {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+}
+
+.section_3_inner_right_number {
+    color: #FEFEFE;
+    text-align: center;
+    /* font-family: Poppins; */
+    font-size: 40px;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.section_3_inner_right_1 {
+    display: flex;
+    align-items: center;
+}
+
+.section_3_inner_right_2 {
+    display: flex;
+    align-items: center;
+}
+
+.section_3_inner_right_3 {
+    display: flex;
+    align-items: center;
+}
+
+.section_3_inner_right_4 {
+    display: flex;
+    align-items: center;
+}
+
+.section_3_inner_right_1_inner {
+    display: flex;
+}
+
+.section_3_inner_right_2_inner {
+    display: flex;
+}
+
+.section_3_inner_right_3_inner {
+    display: flex;
+}
+
+.section_3_inner_right_4_inner {
+    display: flex;
+}
+
+.text {
+    color: rgba(254, 254, 254, 0.70);
+    /* font-family: OpenSans; */
+    font-size: 11px;
+    font-weight: 400;
+    position: relative;
+    top: 15px;
+}
+
+
+.plus {
+    background: #FF4A17;
+    height: 10px; 
+    width: 2px;
+    position: relative; 
+    left: 4px;
+    top: 10px;
+}
+
+.plus:after {
+    content: "";
+    height: 2px; 
+    width: 10px;
+    background: #CD6D45;
+    position: absolute; 
+    left: -4px; 
+    top: 4px;
+}
