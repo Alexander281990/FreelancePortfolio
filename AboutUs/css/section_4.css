@@ -14,7 +14,7 @@
 .section_4_inner_img {
     width: 380px;
     height: 321px;
-    background-image: url("/AboutUs/img/section_2/about_img_1.png");
+    background-image: url("/../img/section_2/about_img_1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
