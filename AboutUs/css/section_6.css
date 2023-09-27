@@ -6,7 +6,7 @@
 
 .section_6_inner {
     margin: 0 auto;
-    background-image: url("/AboutUs/img/section_6/bacground_section.png");
+    background-image: url("/../img/section_6/bacground_section.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: -110px;
