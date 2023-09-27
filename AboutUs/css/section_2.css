@@ -54,13 +54,13 @@
 }
 
 .section_2_content_img1 {
-    background-image: url("../img/section_2/about_img_1.png");
+    background-image: url("/img/section_2/about_img_1.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .section_2_content_img2 {
-    background-image: url("/../img/section_2/about_img_2.png");
+    background-image: url("/img/section_2/about_img_2.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: -30px;
