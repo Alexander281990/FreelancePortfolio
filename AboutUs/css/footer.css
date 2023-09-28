@@ -1,0 +1,135 @@
+footer {
+    background-color: #181818;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+
+.footer_1 > .name {
+    margin-bottom: 9px;
+    color: #FEFEFE;
+    font-size: 16px;
+}
+
+.footer_1 > .design {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+
+.footer_1 > .backend {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+
+.footer_1 > .graphic {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+
+.footer_1 > .frontend {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+
+.footer_2 > .connection {
+    margin-bottom: 9px;
+    color: #FEFEFE;
+    font-size: 16px;
+}
+
+.footer_2 > .phone > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_2 > .email > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_2 > .telegram > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_3 > .name {
+    margin-bottom: 9px;
+    color: #FEFEFE;
+    font-size: 16px;
+}
+
+.footer_3 > .design > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_3 > .backend > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_3 > .graphic > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_3 > .frontend > a {
+    color: rgba(254, 254, 254, 0.70);
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+    text-decoration: none;
+}
+
+.footer_4 {
+    position: relative;
+    top: -15px;
+}
+
+.footer_4 > .team {
+    color: #FEFEFE;
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+
+.footer_4 > .level {
+    color: #FEFEFE;
+    font-size: 14px;
+    margin-bottom: 6px;
+    letter-spacing: 1px;
+}
+
+.footer_4 > .social > a {
+    margin-right: 5px;
+}
